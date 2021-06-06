@@ -1,4 +1,4 @@
-## Python Exercises
+## Python biliklərinizi dərinləşdirmək üçün məsələlər
 
 ![ScreenShot](/screenshot.gif)
 
