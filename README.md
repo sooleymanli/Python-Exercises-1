@@ -1,4 +1,4 @@
-## Python biliklərinizi dərinləşdirmək üçün məsələlər
+## Python-a yeni başlıyanlar üçün praktiki məsələlər
 
 ![ScreenShot](/screenshot.gif)
 
